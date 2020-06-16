@@ -6,5 +6,5 @@ Keerthana Dinesh
 2. Tokenization:https://github.com/keerthanadinesh18/nlp.github.io/blob/master/token.ipynb
 3. COCA:https://github.com/keerthanadinesh18/nlp.github.io/blob/master/COCA.ipynb
 4. Stemming and POS_Tagging:https://github.com/keerthanadinesh18/nlp.github.io/blob/master/STEMMING%20AND%20POS%20TAGGING.ipynb
-5. Cosine Similarities:
-6. INLTK-Kannada: 
+5. Cosine Similarities:https://github.com/keerthanadinesh18/nlp.github.io/blob/master/COSINE%20SIMILARITY.ipynb
+6. INLTK-Kannada:
