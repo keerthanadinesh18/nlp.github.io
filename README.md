@@ -12,12 +12,12 @@ NLP REVIEW 1
 
 NLP REVIEW 2
 
-* [Chunking]
-    * [Basic Chunking]()
-    * [Chunking of LORs]()
-* [Feature Vectors]
-    * [Feature Vectors]()
-    * [Entity Detection and Dependecy Parsing using SPACY]()
-* [ 9 functions on Kannada Language]()
+* Chunking
+    * [Basic Chunking](https://github.com/keerthanadinesh18/nlp.github.io/blob/master/Chunking.ipynb)
+    * [Chunking of LORs](https://github.com/keerthanadinesh18/nlp.github.io/blob/master/Chunking_of_LOR's.ipynb)
+* Feature Vectors
+    * [Feature Vectors](https://github.com/keerthanadinesh18/nlp.github.io/blob/master/FEATURE%20VECTORS.ipynb)
+    * [Entity Detection and Dependecy Parsing using SPACY](https://github.com/keerthanadinesh18/nlp.github.io/blob/master/entity%20detection.ipynb)
+* [ 9 functions on Kannada Language](https://github.com/keerthanadinesh18/nlp.github.io/blob/master/Kannada.ipynb)
     
 
